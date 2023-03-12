@@ -1,0 +1,19 @@
+﻿  Application.cpp
+C:\Users\ADMIN\Desktop\OpenGlRaymarcher\OpenGlImplementation\OpenGlImplementation\src\Application.cpp(91,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ADMIN\Desktop\OpenGlRaymarcher\OpenGlImplementation\OpenGlImplementation\src\Application.cpp(91,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ADMIN\Desktop\OpenGlRaymarcher\OpenGlImplementation\OpenGlImplementation\src\Application.cpp(113,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ADMIN\Desktop\OpenGlRaymarcher\OpenGlImplementation\OpenGlImplementation\src\Application.cpp(116,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ADMIN\Desktop\OpenGlRaymarcher\OpenGlImplementation\OpenGlImplementation\src\Application.cpp(119,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ADMIN\Desktop\OpenGlRaymarcher\OpenGlImplementation\OpenGlImplementation\src\Application.cpp(130,23): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\ADMIN\Desktop\OpenGlRaymarcher\OpenGlImplementation\OpenGlImplementation\src\Application.cpp(133,23): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\ADMIN\Desktop\OpenGlRaymarcher\OpenGlImplementation\OpenGlImplementation\src\Application.cpp(136,23): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\ADMIN\Desktop\OpenGlRaymarcher\OpenGlImplementation\OpenGlImplementation\src\Application.cpp(148,26): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\ADMIN\Desktop\OpenGlRaymarcher\OpenGlImplementation\OpenGlImplementation\src\Application.cpp(151,26): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\ADMIN\Desktop\OpenGlRaymarcher\OpenGlImplementation\OpenGlImplementation\src\Application.cpp(154,26): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\ADMIN\Desktop\OpenGlRaymarcher\OpenGlImplementation\OpenGlImplementation\src\Application.cpp(165,30): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ADMIN\Desktop\OpenGlRaymarcher\OpenGlImplementation\OpenGlImplementation\src\Application.cpp(168,30): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ADMIN\Desktop\OpenGlRaymarcher\OpenGlImplementation\OpenGlImplementation\src\Application.cpp(171,30): warning C4305: '+=': truncation from 'double' to 'float'
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\ADMIN\Desktop\OpenGlRaymarcher\OpenGlImplementation\Debug\vc120.pdb'; linking object as if no debug info
+  OpenGlImplementation.vcxproj -> C:\Users\ADMIN\Desktop\OpenGlRaymarcher\OpenGlImplementation\Debug\OpenGlImplementation.exe
